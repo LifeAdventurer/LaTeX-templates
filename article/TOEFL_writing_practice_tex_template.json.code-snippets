@@ -1,6 +1,6 @@
 {
   "Print to conaole":{
-    "prefix": "TOEFL academic writing tex template",
+    "prefix": "TOEFL Academic Writing tex template",
     "body": [
       "\\documentclass{article}",
       "",
@@ -10,8 +10,8 @@
       "% set default font to sans-serif",
       "\\renewcommand{\\familydefault}{\\sfdefault}",   
       "",
-      "\\title{\\Huge TOEFL Academic writing}",
-      "\\author{word count:  \\tab spend time: min}",
+      "\\title{\\Huge TOEFL Academic Writing}",
+      "\\author{Word count:  \\tab Time cost: min}",
       "",
       "\\newcommand{\\tab}{\\hspace{1em}}",
       "",
@@ -24,6 +24,6 @@
       "",
       "\\end{document}",
     ],
-    "description": "TOEFL academic writing tex template"
+    "description": "TOEFL Academic Writing tex template"
   }
 }
